@@ -1,0 +1,9 @@
+{
+  "name": "dcf-valuation-saas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DCF & Valuation Lab — hosted app with live quotes, login, and subscription gating",
+  "dependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
